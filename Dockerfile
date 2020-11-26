@@ -1,4 +1,4 @@
-FROM senggen/centos-elixir:v1.10
+FROM senggen/centos-elixir:v1.11
 
 # install dumb-init
 ADD https://github.com/Yelp/dumb-init/releases/download/v1.2.2/dumb-init_1.2.2_amd64 /usr/bin/dumb-init
